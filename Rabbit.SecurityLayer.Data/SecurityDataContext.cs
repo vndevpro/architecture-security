@@ -1,6 +1,6 @@
-﻿using System.Configuration;
+﻿using Rabbit.SecurityLayer.Domain;
+using System.Configuration;
 using System.Data.Entity;
-using Rabbit.SecurityLayer.Domain;
 
 namespace Rabbit.SecurityLayer.Data
 {
